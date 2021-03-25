@@ -1,0 +1,62 @@
+absl-py==0.11.0
+astunparse==1.6.3
+cachetools==4.2.1
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+cycler==0.10.0
+easydict==1.9
+Flask==1.1.2
+gast==0.3.3
+google-auth==1.26.1
+google-auth-oauthlib==0.4.2
+google-pasta==0.2.0
+grpcio==1.35.0
+h5py==2.10.0
+idna==2.10
+imageio==2.9.0
+importlib-metadata==3.4.0
+itsdangerous==1.1.0
+Jinja2==2.11.3
+Keras-Preprocessing==1.1.2
+#kiwisolver @ file:///C:/ci/kiwisolver_1612282618948/work
+lxml==4.6.2
+Markdown==3.3.3
+MarkupSafe==1.1.1
+matplotlib
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy==1.18.5
+oauthlib==3.1.0
+olefile==0.46
+opencv-contrib-python==4.3.0.36
+opencv-python==4.1.1.26
+opt-einsum==3.3.0
+pandas==1.1.5
+Pillow 
+protobuf==3.14.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+#pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+#python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz==2021.1
+requests==2.25.1
+requests-oauthlib==1.3.0
+rsa==4.7.1
+scipy==1.4.1
+seaborn==0.11.1
+#six @ file:///C:/ci/six_1605205426665/work
+tensorboard==2.2.2
+tensorboard-plugin-wit==1.8.0
+tensorflow-gpu==2.3.0rc0
+termcolor==1.1.0
+tf-estimator-nightly==2.3.0.dev2020062301
+#tornado @ file:///C:/ci/tornado_1606935947090/work
+tqdm==4.56.2
+typing-extensions==3.7.4.3
+urllib3==1.26.3
+Werkzeug==1.0.1
+wincertstore==0.2
+wrapt==1.12.1
+zipp==3.4.0
